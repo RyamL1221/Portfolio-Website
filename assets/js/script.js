@@ -190,6 +190,8 @@ document.onkeydown = function (e) {
     }
 }
 
+/*
+
 // Start of Tawk.to Live Chat
 var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 (function () {
@@ -202,6 +204,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 })();
 // End of Tawk.to Live Chat
 
+*/
 
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
