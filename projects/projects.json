@@ -3,11 +3,20 @@
     "name": "The Game Counter",
     "desc": "keeps track of the number of times we lost the game",
     "image": "the-game-counter",
-    "category": "full stack",
+    "category": "fullstack",
     "links": {
       "view": "https://the-game-counter.onrender.com/",
       "code": "https://github.com/RyamL1221/The-Game-Counter-Frontend"
     }
+  },
+  {
+    "name": "RU Working?",
+    "desc": "Task management app",
+    "image": "ruworking",
+    "category": "fullstack",
+    "links": {
+      "view": "https://github.com/RyamL1221/HackRU24S",
+      "code": "https://github.com/RyamL1221/HackRU24S"
+    }
   }
-
 ]
