@@ -18,5 +18,27 @@
       "view": "https://github.com/RyamL1221/HackRU24S",
       "code": "https://github.com/RyamL1221/HackRU24S"
     }
+  },
+  {
+    "name": "Gojo Music",
+    "desc": "Discord music bot",
+    "image": "gojomusic",
+    "category": "bot",
+    "links": {
+      "view": "https://github.com/RyamL1221/Gojo-Music",
+      "code": "https://github.com/RyamL1221/Gojo-Music"
+    }
+  },
+  {
+    "name": "MediDox Business Plan",
+    "desc": "Busienss plan for an AI application to assist radiologists analyze medical images",
+    "image": "medidox",
+    "category": "business",
+    "links": {
+      "view": "https://drive.google.com/file/d/1N3I0x6JOYXoR1tqDU_vFyFc3FBYQ1DmY/view?usp=sharing",
+      "code": "https://drive.google.com/file/d/1N3I0x6JOYXoR1tqDU_vFyFc3FBYQ1DmY/view?usp=sharing"
+    }
   }
+  
+  
 ]
